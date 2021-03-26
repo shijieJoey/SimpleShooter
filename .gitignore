@@ -80,6 +80,10 @@ DerivedDataCache/*
 
 Content/StarterContent/*
 
+# AssetPacks Ignored
+
+Content/AssetPacks/*
+
 VSCode Files
 /.vscode/*
 SimpleShooter.code-workspace
